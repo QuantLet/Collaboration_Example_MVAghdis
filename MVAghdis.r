@@ -10,7 +10,7 @@
 # Keywords : pdf, cdf, hyperbolic, plot, graphical representation, multivariate, density, 
 # probability, distribution, heavy-tailed
 # −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
-# See also : 
+# See also : MVAghdistail, MVAghadatail
 # −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
 # Author : Wolfgang K. Härdle
 # −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−

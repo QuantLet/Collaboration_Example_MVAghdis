@@ -4,6 +4,10 @@
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **MVAghdis**
 
 
+### Collaboration Timeline
+![Picture1](collaboration_timeline.png)
+
+
 ```yaml
 Name of QuantLet : MVAghdis
 
